@@ -5,6 +5,7 @@
   "author": "micha3lbrown@gmail.com",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "hubot": "^3.3.2",
     "hubot-cah": "^0.1.0",
     "hubot-diagnostics": "^1.0.0",
@@ -22,6 +23,7 @@
     "hubot-shipit": "^0.2.1",
     "hubot-shrug": "^1.1.0",
     "hubot-slack": "^4.8.0",
+    "request": "^2.88.2",
     "yarn": "^1.22.4"
   },
   "engines": {
