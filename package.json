@@ -7,7 +7,6 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "hubot": "^3.3.2",
-    "hubot-cah": "^0.1.0",
     "hubot-diagnostics": "^1.0.0",
     "hubot-help": "^1.0.1",
     "hubot-heroku-keepalive": "^1.0.3",
@@ -23,6 +22,6 @@
     "yarn": "^1.22.4"
   },
   "engines": {
-    "node": "10.21.0"
+    "node": "14.4.0"
   }
 }
