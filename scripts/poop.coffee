@@ -15,7 +15,7 @@
 #
 
 module.exports = (robot) ->
-  robot.hear /trump|democrat|republican|biden/i, (msg) ->
+  robot.hear /trump/i, (msg) ->
     queryData =  {
         token: process.env.HUBOT_SLACK_TOKEN
         name: "poop"
